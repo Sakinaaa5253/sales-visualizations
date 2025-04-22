@@ -1,0 +1,8 @@
+Order ID,Order Date,Customer Segment,Region,Category,Sales,Profit
+101,15-01-2023,Consumer,North,Electronics,250,50
+102,20-02-2023,Corporate,South,Clothing,150.5,20
+103,05-03-2023,Home Office,East,Furniture,420.9,80
+104,22-03-2023,Consumer,West,Electronics,300.75,60
+105,18-04-2023,Corporate,South,Furniture,180,25
+106,02-05-2023,Consumer,North,Clothing,95.25,10
+107,10-06-2023,Home Office,West,Electronics,600,150
