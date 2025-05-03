@@ -1,6 +1,6 @@
-# 📊 Sales Performance Dashboard Report
+# 📊 Sales Performance Dashboard Report- Task 2
 
-This repository contains a visual storytelling report created as part of a Data Analyst internship project.
+This repository contains a visual storytelling report created for a Data Analyst internship project.
 
 ## 📁 Contents
 
